@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Austhina Brush Calligraphy Scra';
+    src: url('AusthinaBrushCalligraphyScratch.eot');
+    src: url('AusthinaBrushCalligraphyScratch.eot?#iefix') format('embedded-opentype'),
+        url('AusthinaBrushCalligraphyScratch.woff2') format('woff2'),
+        url('AusthinaBrushCalligraphyScratch.woff') format('woff'),
+        url('AusthinaBrushCalligraphyScratch.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
